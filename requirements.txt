@@ -29,7 +29,6 @@ ml-dtypes==0.2.0
 numpy==1.26.1
 oauthlib==3.2.2
 opt-einsum==3.3.0
-python==3.11.6
 packaging==23.2
 protobuf==4.24.4
 pyasn1==0.5.0
